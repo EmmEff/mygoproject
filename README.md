@@ -1,0 +1,4 @@
+mygoproject
+===========
+
+Sample Go project
